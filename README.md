@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning GCP,Network,Flutter,Java
+
 <!--
 **Amatori3/Amatori3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
